@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="11" total="16" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-13T13:28:50 IST" name="Smoke Testing" finished-at="2020-06-13T13:30:07 IST" duration-ms="77334">
+    <groups>
+    </groups>
+    <test started-at="2020-06-13T13:28:50 IST" name="Smoke Test" finished-at="2020-06-13T13:30:07 IST" duration-ms="77334">
+      <class name="TestCases.ValidTestCases">
+        <test-method is-config="true" signature="generate_ExtentReport()[pri:0, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:28:48 IST" name="generate_ExtentReport" finished-at="2020-06-13T13:28:50 IST" duration-ms="2443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generate_ExtentReport -->
+        <test-method is-config="true" signature="get_Driver_Instance()[pri:0, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:28:50 IST" name="get_Driver_Instance" finished-at="2020-06-13T13:29:16 IST" duration-ms="25433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Driver_Instance -->
+        <test-method signature="test_URL_Appear_Correct()[pri:1, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:16 IST" name="test_URL_Appear_Correct" finished-at="2020-06-13T13:29:25 IST" duration-ms="8794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_URL_Appear_Correct -->
+        <test-method is-config="true" signature="get_Test_Case_Result(org.testng.ITestResult)[pri:0, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:25 IST" name="get_Test_Case_Result" finished-at="2020-06-13T13:29:28 IST" duration-ms="3627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_URL_Appear_Correct status=SUCCESS method=ValidTestCases.test_URL_Appear_Correct()[pri:1, instance:TestCases.ValidTestCases@3f018494] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Test_Case_Result -->
+        <test-method signature="test_SignIn_Button()[pri:3, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:28 IST" name="test_SignIn_Button" finished-at="2020-06-13T13:29:30 IST" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_SignIn_Button -->
+        <test-method is-config="true" signature="get_Test_Case_Result(org.testng.ITestResult)[pri:0, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:30 IST" name="get_Test_Case_Result" finished-at="2020-06-13T13:29:30 IST" duration-ms="412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_SignIn_Button status=SUCCESS method=ValidTestCases.test_SignIn_Button()[pri:3, instance:TestCases.ValidTestCases@3f018494] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Test_Case_Result -->
+        <test-method signature="test_LogIn_Details()[pri:4, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:30 IST" name="test_LogIn_Details" finished-at="2020-06-13T13:29:40 IST" duration-ms="10156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LogIn_Details -->
+        <test-method is-config="true" signature="get_Test_Case_Result(org.testng.ITestResult)[pri:0, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:40 IST" name="get_Test_Case_Result" finished-at="2020-06-13T13:29:41 IST" duration-ms="463" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_LogIn_Details status=SUCCESS method=ValidTestCases.test_LogIn_Details()[pri:4, instance:TestCases.ValidTestCases@3f018494] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Test_Case_Result -->
+        <test-method signature="test_Cab_Icon()[pri:6, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:41 IST" name="test_Cab_Icon" finished-at="2020-06-13T13:29:41 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Cab_Icon -->
+        <test-method is-config="true" signature="get_Test_Case_Result(org.testng.ITestResult)[pri:0, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:41 IST" name="get_Test_Case_Result" finished-at="2020-06-13T13:29:42 IST" duration-ms="479" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_Cab_Icon status=SUCCESS method=ValidTestCases.test_Cab_Icon()[pri:6, instance:TestCases.ValidTestCases@3f018494] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Test_Case_Result -->
+        <test-method signature="test_Set_Cab_Details()[pri:9, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:42 IST" name="test_Set_Cab_Details" finished-at="2020-06-13T13:29:51 IST" duration-ms="9219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Set_Cab_Details -->
+        <test-method is-config="true" signature="get_Test_Case_Result(org.testng.ITestResult)[pri:0, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:51 IST" name="get_Test_Case_Result" finished-at="2020-06-13T13:29:51 IST" duration-ms="543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test_Set_Cab_Details status=SUCCESS method=ValidTestCases.test_Set_Cab_Details()[pri:9, instance:TestCases.ValidTestCases@3f018494] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Test_Case_Result -->
+        <test-method is-config="true" signature="terminate_Browser()[pri:0, instance:TestCases.ValidTestCases@3f018494]" started-at="2020-06-13T13:29:51 IST" name="terminate_Browser" finished-at="2020-06-13T13:30:07 IST" duration-ms="15898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate_Browser -->
+      </class> <!-- TestCases.ValidTestCases -->
+    </test> <!-- Smoke Test -->
+  </suite> <!-- Smoke Testing -->
+</testng-results>
